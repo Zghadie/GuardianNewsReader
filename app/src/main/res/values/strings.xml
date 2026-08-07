@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="app_name">Guardian News Reader</string>
+
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="favourites">Favourites</string>
+    <string name="article_details">Article Details</string>
+    <string name="help">Help</string>
+
+    <string name="search_articles">Search Articles</string>
+    <string name="view_favourites">View Favourites</string>
+
+    <string name="help_home">
+        Use the Search Articles button or the navigation drawer to search Guardian news articles or view your saved favourites.
+    </string>
+
+    <string name="help_search">
+        Enter a search term and press Search. Tap an article to view its details.
+    </string>
+
+    <string name="help_details">
+        View the selected article, open it in your browser, or save it to your favourites.
+    </string>
+
+    <string name="help_favourites">
+        Tap a saved favourite to view it again. Long press a favourite to delete it.
+    </string>
+
+</resources>

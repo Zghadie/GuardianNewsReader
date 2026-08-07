@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lecteur de nouvelles Guardian</string>
+
+    <string name="home">Accueil</string>
+    <string name="search">Recherche</string>
+    <string name="favourites">Favoris</string>
+    <string name="article_details">Détails de l’article</string>
+    <string name="help">Aide</string>
+
+    <string name="search_articles">Rechercher des articles</string>
+    <string name="view_favourites">Voir les favoris</string>
+
+    <string name="help_home">
+        Utilisez les boutons, la barre d’outils ou le menu de navigation pour rechercher des articles ou consulter vos favoris.
+    </string>
+
+    <string name="help_search">
+        Entrez un sujet et appuyez sur Rechercher. Touchez un article pour afficher ses détails.
+    </string>
+
+    <string name="help_details">
+        Consultez l’article sélectionné, ouvrez-le dans le navigateur ou enregistrez-le dans vos favoris.
+    </string>
+
+    <string name="help_favourites">
+        Touchez un favori pour l’afficher. Maintenez un favori enfoncé pour le supprimer.
+    </string>
+
+</resources>
